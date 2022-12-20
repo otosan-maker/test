@@ -1,2 +1,3 @@
 prueba de colision
 vamos a seguir probando, con la segunda linea desde VSC
+estos cambios van solo a la barnc que edita este texto
