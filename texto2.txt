@@ -1,1 +1,2 @@
 prueba de colision
+vamos a seguir probando, con la segunda linea desde VSC
